@@ -21,7 +21,7 @@ def get_config():
         n_steps=1000000,
         batch_size=256,
         log_interval=10,
-        eval_interval=5000,
+        eval_interval=10000,
         save_interval=50000,
     )
 

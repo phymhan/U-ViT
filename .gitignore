@@ -1,0 +1,11 @@
+data
+data/
+assets/
+workdir/
+__pycache__
+*/__pycache__
+*/*/__pycache__
+wandb/
+*.pyc
+*/*.pyc
+*/*/*.pyc
